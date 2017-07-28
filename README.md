@@ -1,2 +1,2 @@
-# selenium-cheatsheets
-Cheatsheets for Selenium in various languages as I need them
+# Selenium Cheatsheets
+Look like a pro without ever having to remember a thing
