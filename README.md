@@ -1,2 +1,2 @@
 # Selenium Cheatsheets
-Look like a pro without ever having to remember a thing
+Pretend you know what you're doing without actually having to know how to do anything!
